@@ -1,2 +1,2 @@
 # TriPINet
-Image Manipulation Localization via Dynamatic Cross-Modality Fusion and Progressive Integration
+Jin, Xiao, Wen Yu, and Wei Shi. "Image manipulation localization via dynamic cross-modality fusion and progressive integration." Neurocomputing 610 (2024): 128607.
